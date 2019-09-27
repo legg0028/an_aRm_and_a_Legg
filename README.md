@@ -1,2 +1,2 @@
-# an_aRm_and_a_Legg
-Private Blog Resources
+# An aRm and a Legg
+Resources for my private blog
